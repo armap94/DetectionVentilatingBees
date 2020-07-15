@@ -1,13 +1,13 @@
 # DeepLearningBees
 Detection of Ventilating Bees - Summer 2020 - Freie Universitaet Berlin
 
-## Detection of Ventilating Bees - Summer 2020 - Freie Universitaet Berlin
+
 
 **Group Members:**
-1.Arman Paknia (armap94@zedat.fu-berlin.de)
-2.Sina Moslehi (moslehi85@aol.de)
-3.Maja von Borstal 
-4.Sebastian Lehninger (seb@zedat.fu-berlin.de)
+* Arman Paknia (armap94@zedat.fu-berlin.de)
+* Sina Moslehi (moslehi85@aol.de)
+* Maja von Borstal 
+* Sebastian Lehninger (seb@zedat.fu-berlin.de)
 
 **Link to Our Google Colab** : [Link] (https://colab.research.google.com/drive/11bneBKTn1g8uhO63kbs4p0TeaPmpd-lE?usp=sharing)
 
