@@ -27,6 +27,8 @@ Copy all the data inside "Bienen" into your personal Drive under the same folder
 After running the section of code on Colab about mounting your Drive (provided that content of "Bienen" has been copied to your local drive with accurate hierarchy) running test or training tasks should be straightforward. 
 
 * Step 4:
+Before attempting to train,evaluate or run detections. Use the "coco.names" files from Drive folder and upload it into the "darknet/data" path, overwriting the already existing "coco.names" file.
+
 Using the variety of weight files stored under 'mydrive/bienen/backup' you can evaluate the performance of the model using the 'map' or 'detect' commands or train any model further.  
 
 # Extra Notes:
