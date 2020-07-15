@@ -1,4 +1,4 @@
-# DeepLearningBees
+# Detection of Ventilating Bees
 Detection of Ventilating Bees - Summer 2020 - Freie Universitaet Berlin
 
 
