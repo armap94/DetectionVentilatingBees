@@ -4,10 +4,10 @@ Detection of Ventilating Bees - Summer 2020 - Freie Universitaet Berlin
 ## Detection of Ventilating Bees - Summer 2020 - Freie Universitaet Berlin
 
 **Group Members:**
-Arman Paknia
-Sina Moslehi 
-Maja von Borstal
-Sebastian Lehninger
+1.Arman Paknia (armap94@zedat.fu-berlin.de)
+2.Sina Moslehi (moslehi85@aol.de)
+3.Maja von Borstal 
+4.Sebastian Lehninger (seb@zedat.fu-berlin.de)
 
 **Link to Our Google Colab** : [Link] (https://colab.research.google.com/drive/11bneBKTn1g8uhO63kbs4p0TeaPmpd-lE?usp=sharing)
 
@@ -26,10 +26,16 @@ Copy all the data inside "Bienen" into your personal Drive under the same folder
 * Step 3:
 After running the section of code on Colab about mounting your Drive (provided that content of "Bienen" has been copied to your local drive with accurate hierarchy) running test or training tasks should be straightforward. 
 
-# Extra Notes:
-For training a model from start use the darknet53.conv.74 file from /pretrained_weghts
+* Step 4:
+Using the variety of weight files stored under 'mydrive/bienen/backup' you can evaluate the performance of the model using the 'map' or 'detect' commands or train any model further.  
 
+# Extra Notes:
+* For training a model from start use the darknet53.conv.74 file from '/pretrained_weghts'
 * Obj : Containing images and label data of original images
 * Obj_opt : Optimized images with sharpening and noise reduction (+ label data) 
 * obj_clahe : Images improved with sharpening, noise reduction and Contrast Limited Histogram Equalization (+ label data)
+* train.ipynb : used to create train.ipynb for generating label files, valid.txt and train.txt files
+* utils_data.py : a collection of utility and functions used in train.ipynb for generating label files, valid.txt and train.txt files
+
+
 
