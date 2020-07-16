@@ -36,6 +36,8 @@ Using the variety of weight files stored under 'mydrive/bienen/backup' you can e
 * Obj : Containing images and label data of original images
 * Obj_opt : Optimized images with sharpening and noise reduction (+ label data) 
 * obj_clahe : Images improved with sharpening, noise reduction and Contrast Limited Histogram Equalization (+ label data)
+Note: When using "obj_opt" and "obj-clahe" images + labels be careful of file path and names (modify their name to "obj" temporarily)
+
 * train.ipynb : used to create train.ipynb for generating label files, valid.txt and train.txt files
 * utils_data.py : a collection of utility and functions used in train.ipynb for generating label files, valid.txt and train.txt files
 
