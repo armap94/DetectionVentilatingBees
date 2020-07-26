@@ -17,6 +17,9 @@ Link to **Google Drive** containing all necessary files :[Link] (https://drive.g
 
 # Steps to Using the code on Google Colab:
 
+* Step 0:
+Make sure to read the ProjecReport_README file.
+
 * Step 1:
 Upon opening the google Colab file and the Google Drive storage. Duplicate all the files located in Drive into your own Google Drive and save a copy of the Google Colab file into your own Google account. 
 
